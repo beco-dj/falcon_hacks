@@ -22,7 +22,49 @@ Wrappup was founded on the idea of squeezing the most important information out 
   </li>
   
  </ul>
+ 
+ # Challenges
+ ## Ajar Online
+ See us for details
+ 
+ ## Bayzat
+ 1. Optical recognition of passports, visas and receipts and automatic extraction of meaningful data
+ 2. Building an interactive audio/text natural language interface (chatbot) on top of our health insurance search engine which is publicly available at https://www.bayzat.com/health-insurance/family/
+ 
+ ## myki
+  https://gitlab.com/owl-challenges/session-sharing [Individual Challenge]
   
+ ## PropertyFinder
+ See us for details
+ 
+ ## wrappup (Voicera) 
+ The following is a list of functionalities we would like you to build in order of priority. [Individual]
+ <ul>
+  <li>
+    Take any podcast from youtube, run it through a publicly available speech to text
+engine. Please set up an elastic search client and store the transcript on the
+elastic search index. You may choose to set it up on your local machine for
+testing purposes
+  </li>
+  <li>
+    Based on the keywords, identify the top 20 relevant keywords that categorizes
+that transcript. It should account for factors such as uniqueness of word,
+frequency and relevance in the transcript
+  </li>
+  <li>
+    Use these keywords and relevance of other words in the vicinity to create
+clusters of moments from the transcript that can be called the important
+highlights of the discussion with their corresponding timestamps (start & stop
+time)
+  </li>
+  <li>
+    The audio should also have the ability to be searched from the data stored in the
+elastic search index. If you can make the search understand intent of the query,
+for eg “Tell me something about marketing in this conversation”, in essence
+looking for moments in the audio where marketing was said, it helps you get a
+higher score for the hack challenge.
+  </li>
+ </ul>
   
   # Submissions
   Submissions will be taken from github 21st April at 1pm. Please make sure to let us know where to find your project before then.
