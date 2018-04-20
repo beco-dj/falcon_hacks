@@ -38,7 +38,7 @@ Wrappup was founded on the idea of squeezing the most important information out 
  See us for details
  
  ## wrappup (Voicera) 
- The following is a list of functionalities we would like you to build in order of priority. [Individual]
+ The following is a list of functionalities we would like you to build in order of priority in python. [Individual]
  <ul>
   <li>
     Take any podcast from youtube, run it through a publicly available speech to text
