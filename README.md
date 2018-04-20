@@ -35,7 +35,10 @@ Wrappup was founded on the idea of squeezing the most important information out 
   https://gitlab.com/owl-challenges/session-sharing [Individual Challenge]
   
  ## PropertyFinder
- See us for details
+ Find any innovative way to provide useful information to the consumer using the provided APIs. (eg: mixing the information about restaurant, cinema from GMAP and our property API to help consumer find an appropriate place to live)
+ 
+ Property API: http://propertyfinder-hackathon-2018.sg-1.paas.massivegrid.net/
+ Documentation: https://docs.google.com/document/d/1i1ZCP_QOmRCsLYkNAwHbZ6F3VhiIX-bxLI6fLgynO7w/edit?usp=sharing
  
  ## wrappup (Voicera) 
  The following is a list of functionalities we would like you to build in order of priority in python. [Individual]
